@@ -24,7 +24,7 @@ This project conducts a comprehensive analysis of Airbnb market data, providing 
 
 ### Superhosts Analysis:
 
-- Higher median price for superhosts with longer response times, potentially influenced by increased demand and a willingness to pay a premium.
+- The higher median price for super hosts with longer response times, is potentially influenced by increased demand and a willingness to pay a premium.
 
 ### Correlation Analysis:
 
@@ -36,7 +36,7 @@ This project conducts a comprehensive analysis of Airbnb market data, providing 
 
 ### Reviews and Pricing:
 
-- Negative correlation between the number of reviews and prices, suggesting potential dynamics with budget-conscious travelers.
+- Negative correlation between the number of reviews and prices, suggesting potential dynamics with budget-conscious travelers or might receive a lot of negative reviews.
 
 ### Amenities and Guest Experience:
 
@@ -60,7 +60,7 @@ This project conducts a comprehensive analysis of Airbnb market data, providing 
 
 - Implement location-specific strategies in high-value areas.
 
-- Adjust pricing strategies based on review dynamics.
+- Adjust pricing strategies based on review dynamics and look in the context of reviews.
 
 - Prioritize guest comfort and safety for an enhanced guest experience.
 
