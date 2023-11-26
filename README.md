@@ -68,7 +68,7 @@ This project conducts a comprehensive analysis of Airbnb market data, providing 
 
 - Enhance offerings for houses and townhouses.
 
-- Investigate entries with 1 and 2 bedrooms for potential outliers.
+- A closer examination of property type entries with 1 and 2 bedrooms is advised to leverage potential outliers.
 
 ## Conclusion
 
