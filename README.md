@@ -73,3 +73,7 @@ This project conducts a comprehensive analysis of Airbnb market data, providing 
 ## Conclusion
 
 In conclusion, this analysis provides actionable insights for hosts, property managers, and stakeholders. By addressing missing values, refining pricing strategies, and optimizing amenities, property owners can tailor offerings to meet guest needs. Spatial analysis highlights key rental demand areas, guiding location-specific decisions. Leveraging these insights enhances competitiveness, maximizes revenue, and fosters positive guest experiences.
+
+## References
+
+"New York", Inside Airbnb, http://insideairbnb.com/get-the-data.html
